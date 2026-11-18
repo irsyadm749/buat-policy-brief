@@ -1,7 +1,7 @@
 ---
 name: buat-policy-brief
 description: Susun atau reviu outline dan policy brief BPKP untuk membantu kepala daerah, Presiden, atau pimpinan tertinggi yang berwenang mengambil keputusan kebijakan berbasis bukti, dengan sistematika PerLAN.
-version: 1.6.1
+version: 1.6.2
 ---
 
 # Policy brief BPKP untuk pengambil keputusan
@@ -112,3 +112,8 @@ bukan skrip ini.
 ## Cara menyampaikan sifat perbandingan
 
 Sifat alternatif yang setara ditunjukkan melalui cara penyusunan, bukan melalui kalimat yang menyangkal penggolongan. Jangan menulis pengumuman seperti "ketiga pendekatan ini bukan urutan dari yang paling sederhana menuju paling lengkap" atau "bukan pilihan buruk, kurang buruk, dan terbaik". Kalimat semacam itu menarik perhatian pada kemungkinan yang justru ingin dihindari dan membuat penyusun tampak sedang membela diri. Cukup sajikan alternatif dengan mekanisme yang berbeda, alasan pemilihan masing-masing, serta konsekuensinya secara setara. Bila perlu menegaskan bahwa suatu keputusan menyangkut skala, sebutkan sebagai keterangan intensitas pelaksanaan, bukan sebagai penyangkalan hierarki.
+
+
+## Catatan lingkungan
+
+Skill ini tidak bergantung pada aplikasi, sistem operasi, atau perkakas tertentu. Instruksi pada berkas ini berupa bahasa alami dan dapat diikuti selama model dapat membaca berkas. Bila lingkungan menyediakan shell dan `uv`, konversi .docx pada bagian keluaran berkas dapat dijalankan; bila tidak, seluruh alur penyusunan naskah tetap berjalan dan hasilnya berupa teks.

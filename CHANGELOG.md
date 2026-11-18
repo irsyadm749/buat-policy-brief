@@ -2,6 +2,16 @@
 
 Format mengikuti [Keep a Changelog](https://keepachangelog.com/id/1.1.0/).
 
+## [1.6.2]
+
+### Diubah
+- Rujukan yang mengikat skill pada satu aplikasi dihapus dari README, PANDUAN, dan SKILL.md. Pemasangan dijelaskan secara netral: nama folder, letak SKILL.md, dan jalur relatif rujukan.
+- README memuat tabel contoh lokasi pemasangan, bukan satu jalur tetap, serta menegaskan bahwa skill mengikuti format SKILL.md berfrontmatter YAML dan dapat dipakai tanpa perkakas.
+- SKILL.md memperoleh catatan bahwa instruksi berupa bahasa alami dan tidak bergantung pada aplikasi, sistem operasi, atau perkakas.
+
+### Pemeriksaan
+- Berkas dibaca kembali setelah disimpan. Tidak ada perubahan perilaku penyusunan naskah; skrip konversi tidak berubah.
+
 ## [1.6.1]
 
 ### Diubah

@@ -3,7 +3,7 @@
 Panduan ini untuk manusia, bukan untuk agen. Agen membaca `SKILL.md`; berkas ini menjelaskan
 cara memakai skill dari nol, apa yang bisa diharapkan, dan kesalahan yang sering terjadi.
 
-Versi yang dijelaskan di sini: **1.6.1**.
+Versi yang dijelaskan di sini: **1.6.2**.
 
 ---
 
@@ -32,16 +32,17 @@ Tiga pekerjaan yang ditangani:
 
 ## 2. Memasang
 
-Salin folder ini ke:
+Skill berupa folder. Salin folder ini ke direktori skill yang dibaca perkakas Anda, atau letakkan di mana pun lalu tunjuk foldernya saat meminta bantuan.
 
-```
-%APPDATA%\CherryStudio\Data\Skills\buat-policy-brief\
-```
+Tiga syarat yang menentukan pengenalan:
 
-Syarat yang sering terlewat: **nama folder harus `buat-policy-brief`** dan sama persis dengan
-nilai `name:` pada frontmatter `SKILL.md`. Nama berbeda berarti skill tidak dikenali.
+- nama folder harus `buat-policy-brief` dan sama persis dengan nilai `name:` pada frontmatter `SKILL.md`;
+- berkas `SKILL.md` berada di akar folder;
+- tautan rujukan memakai jalur relatif terhadap folder itu.
 
-Cherry Studio memindai direktori itu saat mulai. Bila skill belum muncul, mulai ulang aplikasi.
+Beberapa lokasi yang lazim, bukan daftar lengkap: folder data aplikasi bila perkakas mengelola pustaka skill sendiri, folder `skills/` di dalam repositori kerja, atau direktori pribadi mana pun.
+
+Bila perkakas memindai folder skill saat mulai, mulai ulang aplikasi setelah menyalin. Bila tidak ada mekanisme pemindaian, cukup sebutkan jalur folder ini saat meminta penyusunan naskah. Skill juga dapat dipakai tanpa perkakas sama sekali: buka `SKILL.md` dan ikuti isinya.
 
 ---
 
