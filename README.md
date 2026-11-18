@@ -11,6 +11,9 @@ Mulai dari [PANDUAN.md](PANDUAN.md). Berkas itu menjelaskan cara memakai skill d
 termasuk contoh perintah, contoh keluaran, dan kesalahan yang sering terjadi. README ini
 hanya ringkasan isi repositori.
 
+pull command 
+git pull origin master
+
 ## Isi repositori
 
 ```
