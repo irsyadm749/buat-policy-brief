@@ -1,7 +1,7 @@
 ---
 name: buat-policy-brief
 description: Susun atau reviu outline dan policy brief BPKP untuk membantu kepala daerah, Presiden, atau pimpinan tertinggi yang berwenang mengambil keputusan kebijakan berbasis bukti, dengan sistematika PerLAN.
-version: 1.6.2
+version: 1.7.0
 ---
 
 # Policy brief BPKP untuk pengambil keputusan
@@ -53,6 +53,12 @@ Penerima, tahap siklus kebijakan, keputusan yang dituju, dan sumber adalah acuan
 Narasi mengalir tidak berarti melarang daftar. Gunakan nomor untuk urutan langkah atau butir untuk unsur sejajar ketika lebih mudah dipindai, termasuk kalimat yang menjanjikan "lima hal berikut". Jangan menyembunyikan lima unsur itu dalam satu paragraf panjang. Hindari label mekanis per paragraf dan subbagian prosedural yang memutus argumen, tetapi pertahankan daftar yang memang membantu.
 
 Rujuk opsi dalam narasi dengan nama tindakan singkat dan bermakna, misalnya "pemantauan yang berjalan", "standardisasi pengukuran", atau "pengukuran disertai pelaporan". Jangan mengandalkan "Pilihan A/B/C", "opsi pertama/kedua", atau "pilihan di atas" yang memaksa pembaca kembali ke tabel. Nama pada tabel dan narasi harus konsisten.
+
+## Pilihan tampilan untuk naskah kepada Presiden
+
+Naskah yang ditujukan kepada Presiden dapat disusun dengan **helicopter view**, **concise view**, atau keduanya. Ketiganya bersifat pilihan pengguna, bukan kewajiban, dan tidak mengubah fakta maupun kesimpulan.
+
+Tawarkan lebih dahulu, satu kali, sebelum menyusun: apakah hendak diterapkan helicopter view, concise view, atau keduanya. Bila pengguna tidak memilih, susun dengan bentuk biasa dan jangan menerapkannya secara diam-diam. Baca [concise view dan helicopter view](references/ringkas-dan-helicopter-view.md) untuk pengertian, cara penerapan, pengaruhnya pada tiap bagian, dan penyesuaian khusus pembaca Presiden.
 
 ## Outline
 

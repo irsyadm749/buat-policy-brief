@@ -2,7 +2,7 @@
 
 Skill penyusunan policy brief dengan sistematika PerLAN, disusun dari posisi BPKP sebagai penyusun naskah untuk pembaca yang berwenang mengambil keputusan.
 
-Versi saat ini: **1.6.2**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat perubahan.
+Versi saat ini: **1.7.0**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat perubahan.
 
 Berkas ini mengikuti spesifikasi Agent Skills: satu folder berisi `SKILL.md` dengan frontmatter YAML, ditambah berkas rujukan dan skrip pendukung. Karena itu skill dapat dipakai pada berbagai perkakas yang membaca format tersebut, bukan terikat pada satu aplikasi tertentu. Isi instruksinya berupa bahasa alami, sehingga tetap dapat dibaca dan diikuti langsung oleh manusia tanpa perkakas apa pun.
 
@@ -26,6 +26,7 @@ references/
   penerapan.md                  contoh penerapan untuk kepala daerah dan Presiden
   pola-bahasa-id.md             daftar periksa pola bahasa yang menandai naskah mesin
   pola-contoh.md                pola narasi dari contoh policy brief
+  ringkas-dan-helicopter-view.md  concise view dan helicopter view untuk naskah kepada Presiden
   rubrik-diklat.md              rubrik penilaian diklat, bila penugasan memerlukannya
   siklus-kebijakan.md           lima tahap siklus kebijakan dan bentuk naskah tiap tahap
 ```

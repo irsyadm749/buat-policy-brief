@@ -3,7 +3,7 @@
 Panduan ini untuk manusia, bukan untuk agen. Agen membaca `SKILL.md`; berkas ini menjelaskan
 cara memakai skill dari nol, apa yang bisa diharapkan, dan kesalahan yang sering terjadi.
 
-Versi yang dijelaskan di sini: **1.6.2**.
+Versi yang dijelaskan di sini: **1.7.0**.
 
 ---
 
@@ -113,6 +113,26 @@ Konsekuensi tetap inti: manfaat, anggaran awal dan berulang, sumber pembiayaan, 
 Objektivitas tidak mewajibkan kesimpulan sama kuat. Alternatif unggul boleh direkomendasikan bila bukti mendukung. Jangan menciptakan kelemahan atau kelebihan palsu untuk menyeimbangkan tabel. Bila pilihan bergantung pada kapasitas atau pagu, nyatakan syaratnya; bila bukti belum cukup, usulkan pengujian terbatas atau informasi tambahan.
 
 Panduan kerja: [opsi dan konsekuensi](references/opsi-dan-konsekuensi.md). Dalam naskah, perbandingan tetap disampaikan lewat narasi mengalir dan tabel bila membantu, dengan nama tindakan yang konsisten.
+
+---
+
+## 3c. Untuk naskah kepada Presiden: pilih tampilan
+
+Bila naskah ditujukan kepada Presiden, Anda dapat memilih penerapan tampilan. Ketiganya tidak mengubah fakta maupun kesimpulan.
+
+| Pilihan | Arti ringkas | Cocok bila |
+| --- | --- | --- |
+| **Helicopter view** | Gambaran besar lebih dahulu, lalu menyempit ke titik yang menentukan | Persoalannya lintas sektor dan pembaca perlu kerangka sebelum rincian |
+| **Concise view** | Ekonomi kata, satu pesan per paragraf, rincian ke apendiks | Waktu baca terbatas dan naskah harus pendek |
+| **Keduanya** | Gabungan keduanya | Lazim untuk naskah kepada Presiden |
+
+Contoh menyebutkannya:
+
+> Susun policy brief untuk Presiden tentang percepatan penurunan stunting. Terapkan helicopter view dan concise view.
+
+Bila tidak disebutkan, naskah disusun dengan bentuk biasa. Agen akan menawarkan pilihan ini satu kali sebelum menyusun, dan tidak menerapkannya tanpa persetujuan Anda.
+
+Penjelasan lengkap: `references/ringkas-dan-helicopter-view.md`.
 
 ---
 

@@ -2,6 +2,20 @@
 
 Format mengikuti [Keep a Changelog](https://keepachangelog.com/id/1.1.0/).
 
+## [1.7.0]
+
+### Ditambahkan
+- `references/ringkas-dan-helicopter-view.md`: pengertian, cara penerapan, pengaruh pada tiap bagian naskah, dan penyesuaian untuk pembaca Presiden.
+- `SKILL.md`: bagian pilihan tampilan untuk naskah kepada Presiden. Agen menawarkan helicopter view, concise view, atau keduanya satu kali sebelum menyusun, dan tidak menerapkannya tanpa persetujuan.
+- `PANDUAN.md`: bagian 3c berisi tabel pilihan beserta contoh permintaan.
+
+### Catatan
+- Pilihan ini hanya mengubah tampilan penyajian, bukan fakta, angka, atau kesimpulan.
+- Bila pengguna tidak memilih, naskah disusun dengan bentuk biasa.
+
+### Pemeriksaan
+- Berkas dibaca kembali setelah disimpan pada repo dan folder skill. Penerapan pada naskah nyata belum diuji.
+
 ## [1.6.2]
 
 ### Diubah
