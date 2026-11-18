@@ -1,0 +1,11 @@
+# Sistem operasi
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Cherry Studio
+*.log
