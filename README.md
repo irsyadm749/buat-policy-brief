@@ -1,6 +1,6 @@
 # buat-policy-brief
 
-Skill Cherry Studio untuk menyusun dan mereviu outline serta policy brief BPKP dengan
+Skill untuk menyusun dan mereviu outline serta policy brief BPKP dengan
 sistematika PerLAN.
 
 Versi saat ini: **1.6.1**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat perubahan.
@@ -10,6 +10,9 @@ Versi saat ini: **1.6.1**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat peru
 Mulai dari [PANDUAN.md](PANDUAN.md). Berkas itu menjelaskan cara memakai skill dari nol,
 termasuk contoh perintah, contoh keluaran, dan kesalahan yang sering terjadi. README ini
 hanya ringkasan isi repositori.
+
+pull command 
+git pull origin master
 
 ## Isi repositori
 
@@ -32,7 +35,7 @@ references/
 
 ## Memasang
 
-Salin folder ini ke direktori skill Cherry Studio:
+Salin folder ini ke direktori skill Cherry Studio atau lainnya:
 
 ```
 %APPDATA%\CherryStudio\Data\Skills\buat-policy-brief\
