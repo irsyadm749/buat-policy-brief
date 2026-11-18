@@ -3,7 +3,7 @@
 Skill Cherry Studio untuk menyusun dan mereviu outline serta policy brief BPKP dengan
 sistematika PerLAN.
 
-Versi saat ini: **1.3.2**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat perubahan.
+Versi saat ini: **1.6.1**. Lihat [CHANGELOG.md](CHANGELOG.md) untuk riwayat perubahan.
 
 ## Untuk pengguna baru
 
@@ -27,6 +27,7 @@ references/
   pola-bahasa-id.md             daftar periksa pola bahasa yang menandai naskah mesin
   pola-contoh.md                pola narasi dari contoh policy brief
   rubrik-diklat.md              rubrik penilaian diklat, bila penugasan memerlukannya
+  siklus-kebijakan.md           lima tahap siklus kebijakan dan bentuk naskah tiap tahap
 ```
 
 ## Memasang
@@ -82,3 +83,7 @@ perubahan harus disalin manual.
 
 Isi skill memuat pertimbangan internal BPKP mengenai sistematika dan register naskah.
 Periksa ketentuan distribusi sebelum membagikannya ke luar unit.
+
+## Perancangan rekomendasi
+
+Alternatif nyata, pemeriksaan yang adil, dan perbandingan konsekuensi—terutama anggaran—menjadi dasar rekomendasi. Lihat [panduan opsi dan konsekuensi](references/opsi-dan-konsekuensi.md).

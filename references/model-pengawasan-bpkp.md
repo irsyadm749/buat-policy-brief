@@ -6,9 +6,18 @@ Gunakan Lampiran PerLAN 28/2017, Bab II A.1 dan B.1 untuk naskah lengkap. Untuk 
 
 Sebut masalah kebijakan dan cakupan yang relevan bagi keputusan. Pilih judul yang singkat dan spesifik.
 
+Judul langsung diikuti Ringkasan Eksekutif. Jangan menyisipkan blok keterangan di antaranya, seperti
+daftar penerima, tahap kebijakan, keputusan yang diminta, atau sumber utama yang ditulis sebagai label
+tebal. Keterangan itu diserap ke dalam Ringkasan Eksekutif dan Pendahuluan sebagai kalimat biasa.
+Naskah untuk pimpinan dibaca sebagai satu argumen, bukan sebagai formulir.
+
 ## 2. Ringkasan Eksekutif
 
-Tulis setelah analisis selesai, lalu tempatkan sebelum Pendahuluan. Nyatakan keputusan yang diminta dan urgensinya, temuan dan faktor penyebab yang didukung bukti, konsekuensi bagi pihak terdampak, serta opsi yang disarankan dan pelaksana utamanya. Bila keputusan bergantung pada syarat, sebut syarat yang paling menentukan.
+Tulis setelah analisis selesai, lalu tempatkan sebelum Pendahuluan. Nyatakan keputusan yang diminta dan urgensinya, temuan dan faktor penyebab yang didukung bukti, konsekuensi bagi pihak terdampak, serta opsi yang disarankan dan pelaksana utamanya.
+
+Tulis mengalir dalam tiga sampai lima paragraf, bukan sebagai daftar. Jangan memakai label tebal di
+awal paragraf seperti "Keputusan yang diminta.", "Mengapa sekarang.", atau "Temuan.". Label semacam
+itu mengubah ringkasan menjadi daftar isian dan memutus alur bacaan. Buka dari persoalan dan arah perbaikan yang relevan dengan kewenangan pembaca, tanpa menyebut penerima sebagai orang ketiga yang diminta memilih. Bila keputusan bergantung pada syarat, sebut syarat yang paling menentukan.
 
 ## 3. Pendahuluan
 
@@ -20,11 +29,20 @@ Mulai dari kesenjangan yang perlu diatasi. Untuk setiap subisu, jelaskan apa yan
 
 ## 5. Rekomendasi
 
-Sampaikan keputusan yang perlu diambil pembaca dan alasannya. Bandingkan pilihan yang masuk akal serta dampak mempertahankan kebijakan berjalan jika relevan. Terangkan pertukaran manfaat, biaya, waktu, dan risiko yang menentukan pilihan. Untuk kepala daerah, jelaskan apa yang dapat ia arahkan di daerah dan apa yang perlu dikoordinasikan. Untuk Presiden, rumuskan arahan atau keputusan strategis serta tindak lanjut menteri, kepala lembaga, atau pemerintah daerah yang berwenang.
+Sampaikan keputusan yang perlu diambil pembaca dan alasannya. Sajikan alternatif yang sungguh layak dipertimbangkan dan berbeda mekanisme. Analisis keadaan berjalan sebagai baseline; jangan memaksakannya menjadi opsi rekomendasi jika tidak sah atau tidak layak. Perbandingan bersifat wajib. Untuk setiap pilihan, sebutkan konsekuensi anggaran bila dilaksanakan: besaran atau kisaran biaya, sumber pembiayaan, sifat belanja apakah baru atau realokasi, dan apakah biaya itu berulang atau sekali. Terangkan pertukaran manfaat, biaya, waktu, risiko, dan kewenangan yang menentukan pilihan. Untuk kepala daerah, jelaskan apa yang dapat ia arahkan di daerah dan apa yang perlu dikoordinasikan. Untuk Presiden, rumuskan arahan atau keputusan strategis serta tindak lanjut menteri, kepala lembaga, atau pemerintah daerah yang berwenang.
 
 Sebut pelaksana utama, dukungan yang diperlukan, tenggat atau tahap, serta indikator hasil dengan nilai awal atau rencana pengukurannya. Bila diperlukan, tekankan prasyarat, keputusan untuk melanjutkan atau memperluas uji coba, dan mekanisme pemantauan. Sebut kontribusi BPKP atau inspektorat hanya jika relevan dan sesuai mandat, misalnya memberi masukan, menguji pengendalian, atau memantau tindak lanjut dalam penugasan yang berwenang. Bawa rancangan uji dan prosedur pengawasan yang rinci ke Apendiks bila diperlukan.
 
 Bangun paragraf dari temuan menuju tindakan. Gunakan tabel opsi bila perbandingan lebih mudah dipahami dalam tabel. Bacakan rekomendasi sebagai arahan yang dapat digunakan pimpinan dan rapikan susunan yang terasa seperti daftar prosedur.
+
+Tulis bagian ini mengalir; daftar bernomor atau berbutir boleh dipakai untuk urutan langkah atau unsur sejajar yang memang lebih mudah dibaca sebagai daftar. Jangan membuat penanda seperti
+"Kriteria perbandingan", "Mengapa opsi X dipilih", "Rincian opsi X", "Cara menilai hasil", atau "Bila
+tidak ada opsi yang diambil". Semua itu disampaikan sebagai paragraf yang meneruskan argumen:
+kriteria disebut sambil membandingkan, rincian menyusul setelah opsi dipilih, indikator menyatu pada
+paragraf pelaksanaan, dan akibat tidak mengambil keputusan menjadi paragraf penutup.
+
+Penomoran hanya dipakai bila benar-benar membantu pembaca menelusuri, misalnya daftar pasal yang
+harus diverifikasi. Untuk argumen, paragraf mengalir lebih baik daripada butir.
 
 ## 6. Apendiks
 
@@ -49,3 +67,22 @@ Lakukan penyuntingan pada tingkat naskah. Baca berurutan judul, kalimat pembuka 
 - Alternatif dibandingkan dengan kriteria yang memengaruhi keputusan. Risiko menunda dan pihak yang menanggung biaya atau menerima manfaat dijelaskan bila material.
 - Tindakan punya pelaksana dan waktu serta dapat dinilai dari hasilnya. Peran BPKP sebagai penyusun dan pemberi masukan serta tanggung jawab pelaksana jelas.
 - Tiga bagian pembuka terbaca sebagai satu argumen bagi pimpinan. Keputusan, konsekuensi, dan bukti utama dapat dipahami tanpa membaca prosedur atau metode. Setiap tabel atau grafik membantu pembaca memahami bukti atau pilihan. Periksa tata letak dan panjang akhir bila membuat dokumen.
+
+
+## Narasi dan rujukan opsi
+
+Penerima, tahap siklus kebijakan, keputusan yang dituju, dan sumber adalah acuan penyusunan. Jangan menjadikannya blok metadata atau narasi orang ketiga seperti "Menteri diminta memilih" atau "policy brief ini ditujukan kepada". Buka Ringkasan Eksekutif dari persoalan, akibat, dan arah perbaikan; sesuaikan kewenangan tanpa mengumumkan siapa pembacanya.
+
+Narasi mengalir tidak berarti melarang daftar. Gunakan nomor untuk urutan langkah atau butir untuk unsur sejajar ketika lebih mudah dipindai, termasuk kalimat yang menjanjikan "lima hal berikut". Jangan menyembunyikan lima unsur itu dalam satu paragraf panjang. Hindari label mekanis per paragraf dan subbagian prosedural yang memutus argumen, tetapi pertahankan daftar yang memang membantu.
+
+Rujuk opsi dalam narasi dengan nama tindakan singkat dan bermakna, misalnya "pemantauan yang berjalan", "standardisasi pengukuran", atau "pengukuran disertai pelaporan". Jangan mengandalkan "Pilihan A/B/C", "opsi pertama/kedua", atau "pilihan di atas" yang memaksa pembaca kembali ke tabel. Nama pada tabel dan narasi harus konsisten.
+
+
+## Objektivitas perbandingan dan konsekuensi
+
+Ikuti [perancangan opsi dan konsekuensi](opsi-dan-konsekuensi.md). Konsekuensi tetap menjadi dasar rekomendasi, terutama anggaran tiap alternatif. Gunakan kriteria dan kedalaman pemeriksaan setara, termasuk untuk opsi yang disukai. Jangan menyamakan ketidakpastian dengan nilai nol, baseline dengan tanpa biaya, atau opsi unggul dengan tanpa risiko. Rekomendasi boleh tegas atau bersyarat sesuai bukti, tanpa keseimbangan buatan.
+
+
+## Cara menyampaikan sifat perbandingan
+
+Sifat alternatif yang setara ditunjukkan melalui cara penyusunan, bukan melalui kalimat yang menyangkal penggolongan. Jangan menulis pengumuman seperti "ketiga pendekatan ini bukan urutan dari yang paling sederhana menuju paling lengkap" atau "bukan pilihan buruk, kurang buruk, dan terbaik". Kalimat semacam itu menarik perhatian pada kemungkinan yang justru ingin dihindari dan membuat penyusun tampak sedang membela diri. Cukup sajikan alternatif dengan mekanisme yang berbeda, alasan pemilihan masing-masing, serta konsekuensinya secara setara. Bila perlu menegaskan bahwa suatu keputusan menyangkut skala, sebutkan sebagai keterangan intensitas pelaksanaan, bukan sebagai penyangkalan hierarki.

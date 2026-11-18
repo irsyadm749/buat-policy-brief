@@ -3,7 +3,7 @@
 Panduan ini untuk manusia, bukan untuk agen. Agen membaca `SKILL.md`; berkas ini menjelaskan
 cara memakai skill dari nol, apa yang bisa diharapkan, dan kesalahan yang sering terjadi.
 
-Versi yang dijelaskan di sini: **1.3.2**.
+Versi yang dijelaskan di sini: **1.6.1**.
 
 ---
 
@@ -73,6 +73,45 @@ Empat hal ini sebaiknya disebutkan sejak awal. Kalau tidak, agen akan menebak at
 3. **Data dan sumber** — angka, periode, cakupan. Boleh tempelan teks atau lampiran.
 4. **Panjang** — PerLAN memberi acuan sekitar 1.500 kata dan 2 sampai 4 halaman, dengan batas
    8 halaman. Kalau penugasan menentukan lain, sebutkan.
+
+---
+
+## 3a. Sebutkan tahap kebijakannya
+
+Sejak versi 1.4.0, skill ini menanyakan satu hal lagi: **pembaca berada di tahap mana** dalam
+siklus kebijakan. Alasannya, satu bentuk naskah tidak cocok untuk semua tahap.
+
+| Tahap | Yang diputuskan pembaca | Bentuk naskah |
+| --- | --- | --- |
+| Penyusunan agenda | Apakah isu perlu masuk agenda | Pembuka masalah, tanpa solusi terperinci |
+| Formulasi kebijakan | Pilihan mana yang diambil | Perbandingan opsi dengan kriteria |
+| Penetapan kebijakan | Apakah rancangan disahkan | Ringkas, menutup keraguan terakhir |
+| Pelaksanaan | Apa yang perlu diperbaiki | Hambatan pelaksanaan menjadi inti |
+| Evaluasi | Dilanjutkan, diubah, atau dihentikan | Penilaian terhadap sasaran, bukan usulan baru |
+
+Contoh menyebutkannya:
+
+> Buat policy brief tahap **formulasi** tentang opsi pembiayaan pensertifikatan aset daerah.
+> Penerimanya Bupati.
+
+Kalau tidak disebutkan, agen akan menyimpulkannya dari keputusan yang diminta dan memberitahukannya
+kepada Anda dalam satu kalimat. Anda dapat membetulkan bila keliru.
+
+Penjelasan lengkap tiap tahap ada di `references/siklus-kebijakan.md`.
+
+---
+
+## 3b. Pilihan nyata dan konsekuensi sebagai dasar rekomendasi
+
+Sejak 1.6.0, alternatif dirancang dari tujuan dan kendala keputusan sebelum menentukan rekomendasi. Setiap alternatif perlu memiliki alasan rasional untuk dipilih dan berbeda secara substantif. Paket bertingkat hanya tepat bila keputusan nyata memang menyangkut skala atau pagu.
+
+Keadaan berjalan dianalisis sebagai baseline, termasuk biaya, risiko, kontinuitas layanan, dan biaya transisi yang dihindari. Ia tidak wajib menjadi opsi rekomendasi bila tidak sah atau tidak layak. Jelaskan alasan pengecualiannya.
+
+Konsekuensi tetap inti: manfaat, anggaran awal dan berulang, sumber pembiayaan, belanja baru atau realokasi, biaya peluang, kapasitas pelaksanaan, risiko, pihak terdampak, dan akibat penundaan. Periksa semua alternatif dengan kriteria dan kedalaman sebanding. Data biaya belum tersedia bukan berarti nol atau buruk; nyatakan komponen, asumsi, serta kebutuhan data, tanpa mengarang nominal.
+
+Objektivitas tidak mewajibkan kesimpulan sama kuat. Alternatif unggul boleh direkomendasikan bila bukti mendukung. Jangan menciptakan kelemahan atau kelebihan palsu untuk menyeimbangkan tabel. Bila pilihan bergantung pada kapasitas atau pagu, nyatakan syaratnya; bila bukti belum cukup, usulkan pengujian terbatas atau informasi tambahan.
+
+Panduan kerja: [opsi dan konsekuensi](references/opsi-dan-konsekuensi.md). Dalam naskah, perbandingan tetap disampaikan lewat narasi mengalir dan tabel bila membantu, dengan nama tindakan yang konsisten.
 
 ---
 
@@ -211,6 +250,7 @@ references/
   pola-bahasa-id.md             daftar periksa pola bahasa yang menandai naskah mesin
   pola-contoh.md                pola narasi dari contoh policy brief
   rubrik-diklat.md              rubrik penilaian diklat, bila penugasan memerlukannya
+  siklus-kebijakan.md           lima tahap siklus kebijakan dan bentuk naskah tiap tahap
 ```
 
 Berkas di `references/` dibaca agen hanya saat relevan. Anda tidak perlu membacanya untuk
@@ -237,3 +277,12 @@ di skrip itu hanya terlihat saat dijalankan, tidak saat dibaca.
 
 Isi skill memuat pertimbangan internal BPKP mengenai sistematika dan register naskah. Periksa
 ketentuan distribusi sebelum membagikannya ke luar unit.
+
+
+## Narasi dan rujukan opsi
+
+Penerima, tahap siklus kebijakan, keputusan yang dituju, dan sumber adalah acuan penyusunan. Jangan menjadikannya blok metadata atau narasi orang ketiga seperti "Menteri diminta memilih" atau "policy brief ini ditujukan kepada". Buka Ringkasan Eksekutif dari persoalan, akibat, dan arah perbaikan; sesuaikan kewenangan tanpa mengumumkan siapa pembacanya.
+
+Narasi mengalir tidak berarti melarang daftar. Gunakan nomor untuk urutan langkah atau butir untuk unsur sejajar ketika lebih mudah dipindai, termasuk kalimat yang menjanjikan "lima hal berikut". Jangan menyembunyikan lima unsur itu dalam satu paragraf panjang. Hindari label mekanis per paragraf dan subbagian prosedural yang memutus argumen, tetapi pertahankan daftar yang memang membantu.
+
+Rujuk opsi dalam narasi dengan nama tindakan singkat dan bermakna, misalnya "pemantauan yang berjalan", "standardisasi pengukuran", atau "pengukuran disertai pelaporan". Jangan mengandalkan "Pilihan A/B/C", "opsi pertama/kedua", atau "pilihan di atas" yang memaksa pembaca kembali ke tabel. Nama pada tabel dan narasi harus konsisten.
